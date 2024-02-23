@@ -1,0 +1,71 @@
+#root{
+    text-align: center;
+}
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?q=80&w=1605&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+h1{
+    color: yellow;
+    font-family: cursive;
+}
+
+h2{
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+
+.comment{
+    color: yellow;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.btn{
+    margin-top: 2rem;
+}
+
+.btn button {
+ 
+    padding: 0px;
+    margin: 8px;
+    width: 6rem;
+    height: 2rem;
+    justify-content: space-between;
+    font-size: 1.2rem;
+    background: linear-gradient(to bottom, #ffffff, #e6e6e696); 
+    color: black;
+    border: 1px solid black;
+    border-radius: 1rem;
+}
+
+.form input{
+    padding: 0%;
+    margin: 1.5%;
+    text-align: center;
+    width: 18rem;
+    height: 2rem;
+    font-size: large;
+    font-family: sans-serif;
+    margin-bottom: 1rem;
+    border: none;
+    
+}
+
+.form button{
+    width: 6rem;
+    height: 2rem;
+    font-size: large;
+    font-size: larger;
+    font-family: sans-serif;
+    border-radius: 0.4rem;
+    background: linear-gradient(to bottom, #6aded3, #e6e6e6b5); 
+    
+}
+
+.form{
+    margin: 1.2rem;
+}
