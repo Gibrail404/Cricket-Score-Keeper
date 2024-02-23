@@ -13,7 +13,7 @@ This repository contains a Cricket Score Keeper mini project implemented using R
 
 ## Demo
 
-[Live Demo](https://your-live-demo-url-here)
+[Live Demo](https://gibrail404.github.io/Cricket-Score-Keeper/)
 
 Feel free to explore and customize the project according to your cricket scoring needs!
 
